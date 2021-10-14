@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "twbs/bootstrap": "5.0.0-beta1"
+    }
+}
